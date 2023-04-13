@@ -1,0 +1,25 @@
+*
+{
+  margin: 0 1px;
+}
+body{
+color: white ;
+   background: url('https://pic.rutubelist.ru/video/9b/21/9b2175e2faa32d6b60a213900d366dbc.jpg');
+font-size:25px;
+background-repeat:no-repeat;
+percentage:'width-Auto''height-Auto'
+}
+
+
+h1{
+font-size: 50px;
+margin: 50px 0;
+text-align: left;
+margin: 0px;
+color:white;
+}
+a{
+  font-size:25px;
+  color: black;
+  text-decoration:none;
+}
